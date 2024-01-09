@@ -1,4 +1,6 @@
 p{
     color: red;
     margin: 10%;
+    padding : 10px;
+    font: inherit;
 }
